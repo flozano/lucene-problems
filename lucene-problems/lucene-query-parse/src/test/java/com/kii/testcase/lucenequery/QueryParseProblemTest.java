@@ -6,7 +6,7 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.TestName;
 
-public class QueryParseProblem {
+public class QueryParseProblemTest {
 
 	@Rule
 	public TestName name = new TestName();
